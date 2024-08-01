@@ -2,3 +2,4 @@
 
 set history size unlimited
 set history save on
+set history filename ~/.gdb_history
