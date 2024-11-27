@@ -1,0 +1,5 @@
+#
+
+#env
+LESS = -iSQRF#3 
+#version > 614 LESS += --no-vbell
